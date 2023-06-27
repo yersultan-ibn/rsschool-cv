@@ -1,1 +1,1 @@
-https://rsschool-cv-yer.vercel.app/
+https://yersultan-ibn.github.io/rsschool-cv/
